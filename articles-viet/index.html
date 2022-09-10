@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "HỘI THÁNH TIN LÀNH VIỆT NAM <br /><span style='font-size: 0.7em; font-style: italic; margin-left: 30px;'>San Francisco, California</span>"
+teaser: "Vietnamese Alliance Church Blog."
+date: 2014-06-02T12:26:34-04:00
+modified: 2016-02-26T10:36:43-05:00
+excerpt: "Dưới đây là một số những bài viết nhắm vào những đoạn hoặc ý niệm trong Kinh Thánh thường bị giải thích sai lạc."
+subtitle: "<em>Vì Đức Chúa Trời yêu thương thế gian đến mỗi đã ban Con Một của Ngài, hầu cho hễ ai tin Con ấy sẽ không bị hư mất nhưng được sự sống đời đời. (John 3:16)</em>."
+image:
+  feature: vacsf-home-banner-Viet.jpg
+feature:
+  visible: true
+  headline: "Các Ý Niệm Phổ Thông"
+  category: viet-studies
+---
+
+<a id="pagination-start">&nbsp;</a>
+
+{% include site-toc-viet.html %}
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  {% if post.featured != true %}
+    {% include archive__item.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="post__social">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path}}index.html#pagination-start" class="btn btn-paginate">Bài Mới</a>
+  {% else %}
+    <span class="btn btn-paginate-disabled">Bài Mới</span>
+  {% endif %}
+  <span class="btn btn-paginate-disabled">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}index.html#pagination-start" class="btn btn-paginate">Bài Cũ</a>
+  {% else %}
+    <span class="btn btn-paginate-disabled">Bài Cũ</span>
+  {% endif %}
+</div>

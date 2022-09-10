@@ -1,0 +1,40 @@
+# slugs
+
+articles:
+  name: "Blog Articles"
+
+viet-studies:
+  name: "Các Ý Niệm Phổ Thông"
+
+bible-studies:
+  name: "Bible Studies"
+
+work:
+  name: "Work"
+
+faqs:
+  name: "Frequently Asked Questions"
+
+about:
+  name: "About"
+
+contact:
+  name: "Contact"
+
+support:
+  name: "Support"
+
+404:
+  name: "Not Found"
+
+sitemap:
+  name: "Sitemap"
+
+style-guide:
+  name: "Style Guide"
+
+terms:
+  name: "Terms &amp; Policies"
+
+tag:
+  name: "Tags"

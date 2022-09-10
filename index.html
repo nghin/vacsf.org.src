@@ -1,0 +1,42 @@
+---
+layout: archive
+title: "VIETNAMESE ALLIANCE CHURCH<br /><span style='font-size: 0.7em; font-style: italic; margin-left: 30px;'>San Francisco, California</span>"
+teaser: "Vietnamese Alliance Church Blog."
+date: 2014-06-02T12:26:34-04:00
+modified: 2016-02-26T10:36:43-05:00
+excerpt: "A collection of articles addressing difficult and commonly misinterpreted Scriptural passages or concepts."
+subtitle: "<em>For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life (John 3:16)</em>."
+image:
+  feature: vacsf-home-banner-02.jpg
+feature:
+  visible: true
+  headline: "Featured Articles"
+  category: articles
+---
+
+<a id="pagination-start">&nbsp;</a>
+
+<a href="{{ site.url }}/articles-viet/"><em>(Bấm vào <u>đây</u> để đọc tiếng Việt)</em></a>
+
+{% include site-toc.html %}
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  {% if post.featured != true %}
+    {% include archive__item.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="post__social">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path}}index.html#pagination-start" class="btn btn-paginate">Newer Posts</a>
+  {% else %}
+    <span class="btn btn-paginate-disabled">Newer Posts</span>
+  {% endif %}
+  <span class="btn btn-paginate-disabled">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}index.html#pagination-start" class="btn btn-paginate">Older Posts</a>
+  {% else %}
+    <span class="btn btn-paginate-disabled">Older Posts</span>
+  {% endif %}
+</div>
