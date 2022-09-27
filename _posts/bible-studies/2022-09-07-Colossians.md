@@ -34,6 +34,10 @@ The key concepts gathered from the study of this passage: 1) Love in the Spirit,
 
 ##  [<u>Colossians 1:11-22</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-01-v11-22 %})
 
-The key concepts gathered from the study of this passage: 1) Nhờ sức Chúa ban. Được cứu. Chúa Giê-su là trên hết. Kẻ thù của Đức Chúa Trời. Được làm hòa lại với Ngài.
+The key concepts gathered from the study of this passage: Empowered for patience, steadfastness, and thankfulness. Delivered from darkness. Christ’s preeminence. Enemy of God. Reconciled with God.
+
+##  [<u>Colossians 1:22-23</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-01-v22-23 %})
+
+The key concepts gathered from the study of this passage: Progressive sanctification. Established and firm in the faith.
 
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.

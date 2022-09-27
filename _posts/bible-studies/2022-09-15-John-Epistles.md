@@ -1,6 +1,6 @@
 ---
-title: "John Epistles"
-headline: "John Epistles - headline"
+title: "John's Epistles"
+headline: "John's Epistles - headline"
 excerpt: "A verse-by-verse study of the letters of John"
 image: 
   feature: 1-John.jpg
