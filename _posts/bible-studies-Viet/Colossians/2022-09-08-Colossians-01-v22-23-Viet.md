@@ -30,7 +30,7 @@ Mặc dầu chúng ta đã học Cơ-lô-se 1:22 Chúa Nhật trước, tôi tin
 
 Có một ý niệm gọi là "tiến trình nên thánh" được chấp nhận bởi hầu hết những người tin Chúa. Chúng ta hãy đọc qua một số các định nghĩa của ý niệm này:
 
-> Tiến trình nên thánh là sự tách dần người thuộc về Chúa với thế gian và khiến họ ngày càng trở nên giống Chúa hơn. (gotquestions.org)<br />
+> Tiến trình nên thánh là sự tách dần người thuộc về Chúa ra ngoài thế gian và khiến họ ngày càng trở nên giống Chúa hơn. (gotquestions.org)<br />
 > Tiến trình nên thánh là một quá trình mà qua đó Đức Thánh Linh khiến một người ngày càng trở nên giống Chúa hơn. Đó là một quá trình trọn cả đời sống. (preceptaustin.org)
 
 Tôi có thể tìm thêm nhiều định nghĩa nữa, nhưng các điểm chính vẫn là: "suốt đời" và "càng ngày càng." Tôi không có vấn đề gì về ý niệm "suốt đời" vì tất cả chúng ta đều phải đợi cho đến ngày Chúa trở lại khi chúng ta được biến hóa từ vinh hiển qua vinh hiển, nhưng ý niệm "càng ngày càng" thì đối với tôi có nhiều vấn đề.
