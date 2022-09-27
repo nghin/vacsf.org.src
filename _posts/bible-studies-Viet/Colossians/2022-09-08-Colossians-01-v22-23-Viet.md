@@ -23,7 +23,7 @@ comments_locked: false
 ## TIẾN TRÌNH NÊN THÁNH
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/Colossians-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Co-lo-se-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 Mặc dầu chúng ta đã học Cơ-lô-se 1:22 Chúa Nhật trước, tôi tin rằng còn một khía cạnh quan trọng của câu này chúng ta cần thảo luận trong Chúa Nhật này. Chúng ta hãy đọc lại đoạn Kinh thánh này một lần nữa: <span style="color: rgb(159, 29, 33);"><i>"... nhưng bây giờ Ðức Chúa Trời đã nhờ sự chết của Con Ngài chịu lấy trong thân thể của xác thịt mà khiến anh em hòa thuận, đặng làm cho anh em đứng trước mặt Ngài cách <strong>thánh sạch không vết, không chỗ trách được</strong>;"</i></span>
 </p>
 </div>
