@@ -36,7 +36,7 @@ A plane in space is defined by at least three points, so all of the points that 
 
 I could list many more such truths, but I believe this is sufficient. I'll use the anchor points mentioned above to evaluate John's theology. As I previously stated, if John's theological points are on the same plane of truth as Paul's, they will be completely in agreement.
 
-Here is a collection of John Epistles study notes.
+Here is a growing collection of John Epistles study notes. They are being transferred from a dropbox collection of study notes I jotted down after each Sunday School class. We did not study 2nd and 3rd John because I felt the class members could do so on their own.
 
 ##  [<u>1 John 1-2:6</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch1-ch2-v6 %})
 

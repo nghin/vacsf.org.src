@@ -40,4 +40,8 @@ The key concepts gathered from the study of this passage: Empowered for patience
 
 The key concepts gathered from the study of this passage: Progressive sanctification. Established and firm in the faith.
 
+##  [<u>Colossians 1:24-26</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-01-v24-26 %})
+
+The key concepts gathered from the study of this passage: Rejoice in suffering. To complete the Word of God. The hidden mystery now revealed.
+
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.
