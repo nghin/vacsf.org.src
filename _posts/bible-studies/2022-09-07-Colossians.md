@@ -44,4 +44,8 @@ The key concepts gathered from the study of this passage: Progressive sanctifica
 
 The key concepts gathered from the study of this passage: Rejoice in suffering. To complete the Word of God. The hidden mystery now revealed.
 
+##  [<u>Colossians 1:27-2:4</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-01-v27-ch2-v4 %})
+
+The key concepts gathered from the study of this passage: The hope of glory. Perfection in Christ. Assurance from knowing Christ. Reasonable sounding deception.
+
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.
