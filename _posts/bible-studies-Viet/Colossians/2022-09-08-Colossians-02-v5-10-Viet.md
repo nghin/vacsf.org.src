@@ -2,7 +2,7 @@
 title: "Cơ-lô-se 2:5-10"
 excerpt: "Đức tin vững vàng. Đã tin Chúa thể nào thì hãy sống như vậy. Các lý thuyết lừa dối. Sự đầy dẫy của bổn tánh Đức Chúa Trời. Bạn đã được đầy dẫy mọi sự."
 image:
-  teaser: Colossians-teaser.jpg
+  teaser: Co-lo-se-teaser.jpg
 tags: [colossians, bible-studies]
 featured: false
 modified:
@@ -23,7 +23,7 @@ comments_locked: false
 ## ĐỨC TIN VỮNG VÀNG
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/Colossians-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Co-lo-se-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <span style="color: rgb(159, 29, 33);"><i>"Vì dẫu thân tôi xa cách, nhưng tâm thần tôi vẫn ở cùng anh em, thấy trong anh em có thứ tự hẳn hoi và <strong>đức tin vững vàng đến Ðấng Christ</strong>, thì tôi mừng rỡ lắm."</i></span> (Colossians 2:5)
 </p>
 </div>

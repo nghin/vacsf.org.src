@@ -2,7 +2,7 @@
 title: "Cơ-lô-se 1:24-26"
 excerpt: "Vui mừng trong hoạn nạn. Giảng trọn lời Chúa. Sự mầu nhiệm giấu kín nay được tỏ ra."
 image:
-  teaser: Colossians-teaser.jpg
+  teaser: Co-lo-se-teaser.jpg
 tags: [colossians, bible-studies]
 featured: false
 modified:
@@ -23,7 +23,7 @@ comments_locked: false
 ## VUI MỪNG TRONG HOẠN NẠN
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/Colossians-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Co-lo-se-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <span style="color: rgb(159, 29, 33);"><i>"Nay tôi lấy làm vui vẻ về sự tôi đã chịu khổ sở vì anh em, tôi lại vì thân thể Ðấng Christ, là Hội thánh, mà đem xác thịt mình chịu hết các điều còn lại trong sự thương khó của Ngài."</i></span> (Colossians 1:24) <br />Chúng ta chỉ cần đảo mắt nhìn quanh cộng đồng của những người theo đạo, nhất là các nhà thờ cổ động tin lành khỏe mạnh và thịnh vượng, thì sẽ thấy vô số những đôi tai vểnh lên nghe những lời hứa về sự sống dư dật. Trong những môi trường đó, bạn sẽ không bao giờ được nghe sự giảng dạy về sự thống khổ chứ đừng nói chi về sự vui mừng trong những cảnh ngộ đó.
 </p>
 </div>

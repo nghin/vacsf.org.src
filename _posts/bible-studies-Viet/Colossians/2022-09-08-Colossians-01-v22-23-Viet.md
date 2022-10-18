@@ -2,7 +2,7 @@
 title: "Cơ-lô-se 1:22-23"
 excerpt: "Mỗi ngày một nên thánh hơn. Đứng vững trong đức tin."
 image:
-  teaser: Colossians-teaser.jpg
+  teaser: Co-lo-se-teaser.jpg
 tags: [colossians, bible-studies]
 featured: false
 modified:

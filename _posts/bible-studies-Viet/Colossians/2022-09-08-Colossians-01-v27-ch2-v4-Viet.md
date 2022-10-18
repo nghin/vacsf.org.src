@@ -2,7 +2,7 @@
 title: "Cơ-lô-se 1:27-2:4"
 excerpt: "Sự trông cậy về vinh hiển. Trọn vẹn trong Đấng Christ. Vững tâm nhờ biết Chúa. Lời dỗ dành lừa dối."
 image:
-  teaser: Colossians-teaser.jpg
+  teaser: Co-lo-se-teaser.jpg
 tags: [colossians, bible-studies]
 featured: false
 modified:
@@ -23,7 +23,7 @@ comments_locked: false
 ## SỰ TRÔNG CẬY VỀ VINH HIỂN
 <div>
 <p>
-<img alt src="{{ site.url }}/assets/images/Colossians-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="{{ site.url }}/assets/images/Co-lo-se-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
 <span style="color: rgb(159, 29, 33);"><i>"<sup>25</sup>Tôi làm kẻ giúp việc của Hội thánh đó, bởi sự phân phát của Ðức Chúa Trời, là Ðấng giao cho tôi cái phần việc truyền đạo Chúa cho anh em cách trọn vẹn, <sup>26</sup>tức là sự mầu nhiệm đã giấu kín trải các đời các kiếp, mà nay tỏ ra cho các thánh đồ Ngài. <sup>27</sup>Vì Ðức Chúa Trời muốn khiến họ biết sự giàu vinh hiển của sự mầu nhiệm đó ở giữa dân ngoại là thể nào, nghĩa là <strong>Ðấng Christ ở trong anh em, là sự trông cậy về vinh hiển</strong>."</i></span> (Colossians 1:25-27)
 </p>
 </div>
