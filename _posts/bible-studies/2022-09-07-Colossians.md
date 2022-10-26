@@ -52,4 +52,8 @@ The key concepts gathered from the study of this passage: The hope of glory. Per
 
 The key concepts gathered from the study of this passage: The firmness of your faith in Christ. Just as you received Christ, live. Empty, deceiptful philosophy not according to Christ. The fullness of deity in bodily form: Christ. You have been filled in him.
 
+##  [<u>Colossians 2:5-10 - part 2</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-02-v5-10-Cont %})
+
+The key concepts gathered from the study of this passage: We dug deeper into the concept introduced in last week's study.
+
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.
