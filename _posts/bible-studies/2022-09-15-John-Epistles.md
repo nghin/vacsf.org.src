@@ -42,7 +42,7 @@ Here is a growing collection of John Epistles study notes. They are being transf
 
 The key concepts gathered from the study of this passage: 1) If we walk in the light, 2) To know God is to keep his commandment, 3) To abide in Christ is to walk just as Jesus walked.
 
-##  [<u>1 John 2:6-27</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch2-v7-27 %})
+##  [<u>1 John 2:7-27</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch2-v7-27 %})
 
 The key concepts gathered from the study of this passage: 1) The old commandment, 2) Definition of love.
 
