@@ -49,3 +49,8 @@ The key concepts gathered from the study of this passage: 1) The old commandment
 ##  [<u>1 John 2:28-3:10</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch2-v28-ch3-v10 %})
 
 The key concepts gathered from the study of this passage: Remain in Him. Purify himself. Everyone who resides in Him does not sin. So it is with the one who does not love his fellow Christians.
+
+##  [<u>1 John 3:11-21</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch3-v11-21 %})
+
+The key concepts gathered from the study of this passage: Not like Cain. The one who does not love remains in death. Conscience condemned vs. confident. 
+
