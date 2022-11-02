@@ -110,7 +110,7 @@ Then we used a well-known Vietnamese proverb to illustrate our point: "Being nea
 
 There are also several examples in the Bible that show us how to bear fruit. Be like a tree planted near a stream of water (Jeremiah 17:7-8), keep your eyes fixed on Jesus like the Israelites who kept their eyes fixed on the bronze serpent hung on a pole in the desert to be healed of their snake bites. 
 
-Lastly, if we keep telling Peter to be careful not to sink while while he was walking on the tossing waves toward Jesus, we're setting him up to sink, but if he íencouraged to fix his eyes on Jesus, he would be able to do the impossible.
+Lastly, if we keep telling Peter to be careful not to sink while while he was walking on the tossing waves toward Jesus, we're setting him up to sink, but if he is encouraged to fix his eyes on Jesus, he would be able to do the impossible.
 
 So stop telling God's people to bear fruit, but instead shower them with the water of the gospel, of God's gracious gift of eternal life for them in Christ Jesus, and God's Spirit will cause them to bear fruit.
 

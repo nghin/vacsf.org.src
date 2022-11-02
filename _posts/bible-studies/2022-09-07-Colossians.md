@@ -56,4 +56,8 @@ The key concepts gathered from the study of this passage: The firmness of your f
 
 The key concepts gathered from the study of this passage: We dug deeper into the concept introduced in last week's study.
 
+##  [<u>Colossians 2:11-15</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-02-v11-15 %})
+
+The key concepts gathered from the study of this passage: Circumcision done by Christ. Buried and raised with Christ by faith. All your transgressions forgiven. Certificate of indebtedness destroyed. Triumphant through the cross.
+
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.
