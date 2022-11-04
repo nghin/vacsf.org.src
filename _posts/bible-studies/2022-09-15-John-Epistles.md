@@ -54,3 +54,7 @@ The key concepts gathered from the study of this passage: Remain in Him. Purify 
 
 The key concepts gathered from the study of this passage: Not like Cain. The one who does not love remains in death. Conscience condemned vs. confident. 
 
+##  [<u>1 John 3:22-24</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch3-v22-24 %})
+
+The key concepts gathered from the study of this passage: Whatever we ask. Another gospel?
+
