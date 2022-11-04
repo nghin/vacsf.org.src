@@ -33,7 +33,7 @@ Câu 5 được trích ra ở trên, so sánh hai loại cắt bì,  nhưng có 
 
 Nhiều tôn giáo cũng nhận thấy vấn đề với ***"tánh xác thịt"*** và tạo nên nhiều phương cách để hủy diệt nó hầu được tiến lên bậc cao hơn về tâm linh. Tánh xác thịt này cũng được gọi là  ***"thân thể hay chết"*** trong Rô-ma đoạn 7:
 
-> <sup>4</sup>Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy? <sup>25</sup>Cảm tạ Ðức Chúa Trời, nhờ Ðức Chúa Jêsus Christ, là Chúa chúng ta! (Romans 7:24-25)
+> <sup>24</sup>Khốn nạn cho tôi! Ai sẽ cứu tôi thoát khỏi thân thể hay chết nầy? <sup>25</sup>Cảm tạ Ðức Chúa Trời, nhờ Ðức Chúa Jêsus Christ, là Chúa chúng ta! (Romans 7:24-25)
 
  ***"tánh xác thịt"*** này đã được chôn với Đấng Christ khi chúng ta đọc đến câu kế tiếp.
 
