@@ -58,3 +58,7 @@ The key concepts gathered from the study of this passage: Not like Cain. The one
 
 The key concepts gathered from the study of this passage: Whatever we ask. Another gospel?
 
+##  [<u>1 John 4:1-11</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch4-v1-11 %})
+
+The key concepts gathered from the study of this passage: Do not believe every spirit. The person who does not love does not know God.
+
