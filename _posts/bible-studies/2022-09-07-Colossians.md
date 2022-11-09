@@ -60,4 +60,10 @@ The key concepts gathered from the study of this passage: We dug deeper into the
 
 The key concepts gathered from the study of this passage: Circumcision done by Christ. Buried and raised with Christ by faith. All your transgressions forgiven. Certificate of indebtedness destroyed. Triumphant through the cross.
 
+##  [<u>Colossians 2:16-23</u>]({{ site.url }}{% post_url bible-studies/Colossians/2022-09-08-Colossians-02-v16-23 %})
+
+The key concepts gathered from the study of this passage: Shadow vs. reality. False humility and empty notions. Elemental spirits.
+
+Because the rest of Colossians, chapters 3 and 4, contain only exhortations rather than foundational doctrines, I'll leave it up to the class students and our readers to read them for their own edification.
+
 As each Sunday School class recap becomes available, this series will grow weekly. If you find these studies useful in your Christian walk, you are welcome to join us on Zoom for our weekly Sunday School Bible Study.

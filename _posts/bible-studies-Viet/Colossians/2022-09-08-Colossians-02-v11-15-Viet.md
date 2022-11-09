@@ -23,7 +23,7 @@ comments_locked: false
 ## PHÉP CẮT BÌ THẬT
 <div>
 <p>
-<img alt src="http://vacsf.org/assets/images/Colossians-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
+<img alt src="http://vacsf.org/assets/images/Co-lo-se-teaser.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 148px; padding: 0px; float: left;">
     <span style="color: rgb(159, 29, 33);"><i>"<sup>11</sup>Anh em cũng chịu cắt bì trong Ngài, không phải <strong>phép cắt bì bởi tay người</strong> ta làm ra, nhưng là <strong>phép cắt bì của Ðấng Christ</strong>, là <strong>lột bỏ tánh xác thịt</strong> của chúng ta."</i></span> (Colossians 2:11)<br />
 Có nhiều cách giải thích về ý nghĩa của phép cắt bì trong Cựu Ước. Nhưng theo niềm tin của chúng ta thì hầu hết những điều trong Cựu Ước đều là bóng của hình thật trong Tân Ước. Do đó, chúng ta nên giải thích ý nghĩa của phép cắt bì Cựu Ước theo bối cảnh của Tân Ước.
 </p>
