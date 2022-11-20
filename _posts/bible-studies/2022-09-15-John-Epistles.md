@@ -66,3 +66,7 @@ The key concepts gathered from the study of this passage: Do not believe every s
 
 The key concepts gathered from the study of this passage: If we love one another. By this we know. If anyone confesses. Confidence in the day of judgement.
 
+##  [<u>1 John 5:1-3</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch5-v1-3 %})
+
+The key concepts gathered from the study of this passage: Old commandment: love one another. New commandment: Believe in Christ.
+
