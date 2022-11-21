@@ -70,3 +70,7 @@ The key concepts gathered from the study of this passage: If we love one another
 
 The key concepts gathered from the study of this passage: Old commandment: love one another. New commandment: Believe in Christ.
 
+##  [<u>1 John 5:4-13</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch5-v4-13 %})
+
+The key concepts gathered from the study of this passage: The conquering power. Testimony concerning Jesus Christ.
+
