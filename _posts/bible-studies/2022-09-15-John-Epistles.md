@@ -74,3 +74,7 @@ The key concepts gathered from the study of this passage: Old commandment: love 
 
 The key concepts gathered from the study of this passage: The conquering power. Testimony concerning Jesus Christ.
 
+##  [<u>1 John 5:14-21</u>]({{ site.url }}{% post_url bible-studies/John-Epistles/2022-09-15-1John-ch5-v14-21 %})
+
+The key concepts gathered from the study of this passage: Whatever we ask. Sin not unto death. Christians don’t sin. We vs. the whole world. Insight to know God. Guard yourself from idols.
+
