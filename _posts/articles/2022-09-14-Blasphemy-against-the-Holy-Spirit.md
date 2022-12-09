@@ -5,7 +5,7 @@ modified: 2022-09-10T21:00:45-07:00
 image:
   teaser: blasphemy-against-the-holy-spirit-teaser.jpg
 tags: [faith, law, grace, blasphemy, sin, forgiveness]
-featured: true
+featured: false
 comments: true
 teaser: "Many people believe that blasphemy against the Holy Spirit is related to attributing God’s miracle to the devil after reading the passage above. This assumption, however, will cause problems for those who want to question the signs and wonders they see. In Matthew 24:24, Jesus warns us about this potential problem."
 

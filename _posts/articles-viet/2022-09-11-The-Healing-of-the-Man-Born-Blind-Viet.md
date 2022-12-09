@@ -5,7 +5,7 @@ modified: 2022-09-10T21:00:45-07:00
 image:
   teaser: man-born-blind-teaser.jpg
 tags: [faith, law, grace, blindness]
-featured: true
+featured: false
 comments: true
 teaser:
 

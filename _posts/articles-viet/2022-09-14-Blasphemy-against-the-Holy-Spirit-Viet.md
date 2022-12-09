@@ -5,7 +5,7 @@ modified: 2022-09-10T21:00:45-07:00
 image:
   teaser: blasphemy-against-the-holy-spirit-teaser.jpg
 tags: [faith, law, grace, blindness, blasphemy, sin, forgiveness]
-featured: true
+featured: false
 comments: true
 teaser: "Sau khi đọc đoạn Kinh thánh trên, nhiều người cũng có giả định rằng phạm đến Thánh Linh tức là nói rằng phép lạ Chúa đã làm là đến từ ma quỉ. Nhưng giả định này có thể đưa đến câu hỏi là vậy thì ai dám đặt câu hỏi về những dấu kỳ phép lạ mà mình chứng kiến. Chúa Giê-su đã cảnh cáo về điều này trong Ma-thi-ơ 24:24."
 ---

@@ -5,7 +5,7 @@ modified: 2022-09-08T21:00:45-07:00
 image:
   teaser: Colossians-teaser.jpg
 tags: [faith, law, grace, colossians]
-featured: false
+featured: true
 comments: true
 teaser: "A new series on a verse-by-verse study of the book of Colossians."
 
