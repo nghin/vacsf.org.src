@@ -1,0 +1,8 @@
+<nav class="js-toc toc" markdown="1">
+<h4 class="toc__title">John Study Notes<br /><span style="font-size: 0.6em; color: rgb(159, 29, 33);">
+<a href="{{ site.url }}/bible-studies-viet/Giang/"><em>(<u>Bấm vào đây để đọc tiếng Việt</u>)</em></a></span>
+</h4>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="{{ site.url }}/john/John-01-v01-32/"><u>John 1:1-32</u></a><span style="font-weight: normal; margin-left: 1em;">In the beginning. A testament to the light. Born by God. Grace and truth. Law vs grace&truth. He has made God known. Why Jesus was baptized.</span></li>
+</ul>
+</nav>
