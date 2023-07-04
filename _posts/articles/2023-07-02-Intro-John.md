@@ -1,7 +1,7 @@
 ---
 title: "Introducing John Study"
 excerpt: "Verse-by-verse study of the gospel of John"
-modified: 2022-12-08T21:00:45-07:00
+modified: 2023-07-02T21:00:45-07:00
 image:
   teaser: John-teaser.jpg
 tags: [gospel, john]
