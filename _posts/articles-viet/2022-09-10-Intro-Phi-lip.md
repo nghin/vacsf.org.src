@@ -5,7 +5,7 @@ modified: 2022-09-10T21:00:45-07:00
 image:
   teaser: Phi-lip-teaser.jpg
 tags: [faith, law, grace, philippians]
-featured: true
+featured: false
 comments: true
 teaser: "Một loạt bài mới học theo từng câu trong sách Phi-líp."
 

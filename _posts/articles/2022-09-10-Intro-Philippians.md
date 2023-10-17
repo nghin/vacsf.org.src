@@ -5,7 +5,7 @@ modified: 2022-09-10T21:00:45-07:00
 image:
   teaser: Philippians-teaser.jpg
 tags: [faith, law, grace, philippians]
-featured: true
+featured: false
 comments: true
 teaser: "A new series on a verse-by-verse study of the book of Philippians."
 
