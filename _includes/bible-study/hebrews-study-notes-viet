@@ -2,5 +2,6 @@
 <h4 class="toc__title">Sách Hê-bơ-rơ<br/></h4>
 <ul class="toc__menu" id="markdown-toc">
   <li><a href="{{ site.url }}/hebrews-viet/Hebrews-01-v01-14-Viet/"><u>Hebrews 1:1-14</u></a><span style="font-weight: normal; margin-left: 1em;">Quyền tể trị của Chúa Giê-su và Giao Ước Mới.</span></li>
-  </ul>
+  <li><a href="{{ site.url }}/hebrews-viet/Hebrews-02-v01-18-Viet/"><u>Hebrews 2:1-18</u></a><span style="font-weight: normal; margin-left: 1em;">Giữ vững điều đã nghe. Mọi vật phục Ngài. Phần về huyết và thịt của Chúa.</span></li>
+</ul>
 </nav>
