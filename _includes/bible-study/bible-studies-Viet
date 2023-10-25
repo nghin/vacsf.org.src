@@ -11,4 +11,5 @@
 <a href="{{ site.url }}{% post_url bible-studies-Viet/2015-01-15-Ngu-Ngon %}">&nbsp;&nbsp;<u>Parables</u></a>
 <a href="{{ site.url }}{% post_url bible-studies-Viet/2015-01-14-Bap-tem %}">&nbsp;&nbsp;<u>Báp-têm</u></a>
 <a href="{{ site.url }}{% post_url bible-studies-Viet/2023-07-02-Giang %}">&nbsp;&nbsp;<u>Giăng</u></a>
+<a href="{{ site.url }}{% post_url bible-studies-Viet/2023-10-15-Hebrews %}"><u>Hê-bơ-rơ</u></a>
 </nav>

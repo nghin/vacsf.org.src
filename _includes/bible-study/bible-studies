@@ -11,4 +11,5 @@
 <a href="{{ site.url }}{% post_url bible-studies/2015-01-15-Parables %}">&nbsp;&nbsp;<u>Parables</u></a><br />
 <a href="{{ site.url }}{% post_url bible-studies/2015-01-14-Baptism %}"><u>Baptism</u></a>
 <a href="{{ site.url }}{% post_url bible-studies/2023-07-02-John %}">&nbsp;&nbsp;<u>John</u></a>
+<a href="{{ site.url }}{% post_url bible-studies/2023-10-15-Hebrews %}">&nbsp;<u>Hebrews</u></a>
 </nav>
